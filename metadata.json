@@ -1,0 +1,6 @@
+{
+  "name": "NovaStore",
+  "description": "NovaStore - Premium Shopping Experience modern eCommerce website with rich product catalog, interactive cart, wishlist, quick view, filters, search, authentication, checkout flow, and dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
